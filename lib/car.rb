@@ -1,2 +1,2 @@
 class Car < Vehicle
-end
+def go 
